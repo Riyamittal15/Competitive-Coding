@@ -1,2 +1,2 @@
 # LeanIn_July2021_Competitive-Coding_Riya-Mittal
-Milestone1-Competitive-Coding
+Milestone-Competitive-Coding
